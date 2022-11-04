@@ -11,4 +11,3 @@ let bookCharacter = {
 console.log(bookCharacter.employer);
 console.log(bookCharacter["employer"]);
 console.log(bookCharacter.printStatus());
-console.log('Hello world')
